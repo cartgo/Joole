@@ -1,0 +1,54 @@
+
+.allelement{
+    color:black;
+    font-size: 13px; 
+ }
+div.filtertitle{ height:10px;
+background-color: rgb(228, 225, 225);
+font-weight: 10;
+border-bottom:solid;border-top:solid;
+font-family:  "Gill Sans", sans-serif;
+
+border-color:rgb(179, 177, 177);
+border-width:1px;
+color:black;
+line-height: 20px;
+height:20px;
+text-align: left;
+}
+label{
+    font-family:  "Gill Sans", sans-serif;
+
+}
+.filtersubtitle{
+margin-left:10px;
+margin-bottom:3px; 
+float:left;
+/* font-size: 1.2vw; */
+font-weight: 100;
+font-family:  "Gill Sans", sans-serif;
+
+}
+
+input[type='number']{
+width:30px;
+/* margin:3px; */
+
+}
+
+.filternavbar{
+    background-color: rgb(134, 134, 134);
+     font-weight: 10;
+    border:solid;
+    border-width:1px;
+    color:rgb(255, 254, 254);
+    line-height: 20px;
+    text-align: left;
+    
+}
+.filternavbar span{
+    float: right;
+    margin-right:8px;
+}
+
+.filternavbar span:hover{cursor: pointer;}

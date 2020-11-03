@@ -1,0 +1,76 @@
+.productPage{
+    overflow: hidden;
+    background-color:white;
+    width:100%;
+    /* border:solid; */
+    border-color:rgba(4, 51, 105, 0.767);
+    /* padding-right:40px; */
+}
+
+div.content{
+    background-color:white;
+    width:100%;
+    height: 100%;
+    /* display:inline-block; */
+    /* top:300px; */
+    /* border:solid;border-color:coral; */
+    padding-right:40px;
+    position: relative;
+    top:30px;
+}
+
+
+div.proHeader{
+    border:solid;border-left:none;border-right:none;border-top:none;
+    border-color: rgb(202, 201, 201);
+    border-width:1.5px;
+    background:linear-gradient(90deg,#ffffff 0%,#4480c4 120%,#4472C4 00%);
+    /* position:relative; */
+    float:middle;
+    /* left:10%; */
+    width:85%;
+    height:80px;
+}
+
+.navbar{
+    font-size: 13px;
+    font-family:  "Gill Sans", sans-serif;
+    font-weight:700;
+    color:rgba(7, 47, 94, 0.815);   
+    float:middle;
+    top:80px; 
+    background-color: white;
+    width:85%;
+    height:28px;line-height: 28px;
+    text-align: left;
+    text-indent: 190px;
+    position: fixed;
+    z-index: 8;
+}
+
+div.proHeader{
+    position: fixed;
+    z-index: 10;
+
+}
+
+
+
+.navbar:hover{
+    cursor: pointer;
+
+}
+
+
+.smallimg{
+    height:60px;
+    top:0px;
+    float:left;
+}
+
+.briefinfored{
+    color:rgb(187, 3, 3);
+    font-size: 11px;font-weight:200;
+    float:middle;
+    margin-left:20px;
+}

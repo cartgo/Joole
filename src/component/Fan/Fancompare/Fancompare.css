@@ -1,0 +1,77 @@
+.fancompare{
+    position:fixed;border:solid;
+    width:85%;
+    z-index: 999;
+    top:105px; 
+    /* height:1800px; */
+    background-color:  rgb(255, 255, 255);   
+    float:middle;
+    border:solid;border-width:1px;
+ overflow: scroll;
+ /* overflow-y:auto */
+ height:100%;
+
+}
+
+.allcompareelement{
+    /* border:solid; */
+    width:99%;
+    /* float: left;   */
+    display:inline-block; 
+    overflow-x: scroll;
+
+    /* height:1800px; */
+}
+
+.compareelement{
+    top:100px;    
+    float:left;
+    width:19%;
+    width:45px;
+
+    display: inline-block;
+    max-width:20%;
+    min-width:17%;
+ 
+}
+
+.compareelementheads{
+    top:100px;    
+    float:left;
+    width:21%;
+    /* width:45px; */
+
+    display: inline-block;
+    /* max-width:20%; */
+    min-width:17%;
+
+}
+
+
+.compareFanimg{
+    width:90%;
+    height: 100%;
+    min-width: 100%;
+    min-height: 100%;
+
+}
+
+.compareimg{
+height:150px;
+  width: 99%;
+  border-right:solid;
+  /* border-left:solid; */
+  border-color:grey;
+}
+.belowimg{
+height:823px;
+    border-right:solid;
+    /* border-left:solid; */
+    border-color:grey;
+    background-color: white;
+}
+
+tr,td{
+
+    height:30px;
+}

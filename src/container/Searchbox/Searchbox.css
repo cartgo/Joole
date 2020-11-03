@@ -1,0 +1,7 @@
+.hoverblue:hover{
+    background-color:rgb(132, 165, 255);
+    color:black; cursor: pointer;
+}
+.hoverblue{
+    background-color:white;
+}

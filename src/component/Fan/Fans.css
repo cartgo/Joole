@@ -1,0 +1,38 @@
+/* .sidefilter{
+    position:relative;
+    width:22%;
+    float:left;
+    font-size: 15px;
+    border-right:solid;
+    border-bottom: solid;
+    border-width: 0.1px;
+    color:rgba(0, 0, 0, 0.568);
+} */
+
+
+.showproduct{
+    /* margin:0% 8%  10% 22%; */
+    width:100%;
+    float:left;
+     
+ }
+  
+ /* .sidefilter{
+    position:relative;
+    width:22%;
+    float:left;
+    font-size: 15px;
+    border-right:solid;
+    border-bottom: solid;
+    border-width: 0.1px;
+    color:rgba(0, 0, 0, 0.568);
+} */
+/* .test{border:solid;} */
+
+button:disabled{
+    color:rgb(180, 180, 180);
+    background-color: rgb(226, 226, 226);
+    border:solid;
+    border-width:0.5px;
+    border-color:rgb(189, 189, 189);
+}

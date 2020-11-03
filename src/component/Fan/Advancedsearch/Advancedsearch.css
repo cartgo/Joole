@@ -1,0 +1,13 @@
+.advancesearchwindow{ 
+    background-color: rgb(255, 255, 255);
+    width:80%;
+    top:40px;
+    left:10%;
+    position: absolute;
+    height:auto;
+    border:solid;
+    border-width: 1px;
+    border-color:grey;
+    z-index: 999;
+}
+

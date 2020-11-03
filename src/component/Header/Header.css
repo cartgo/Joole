@@ -1,0 +1,31 @@
+.Headerimg{
+ 
+    /* border:solid; */
+     height:100%;
+     float:left;
+  
+}
+
+
+div.imgdiv{
+    /* border:solid; */
+    /* border-color: yellow; */
+    height:70px;    
+    display: inline-block;
+    width:15%;
+    float:left;
+    left:10%;
+}
+div.Productsearch{
+    position: absolute;
+    /* color:red;
+    border:solid; */
+    width:650px;
+    height:70px;    
+    left: 280px;
+    display: inline-block;
+    top:20%;
+
+}
+
+ 

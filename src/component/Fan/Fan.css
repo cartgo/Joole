@@ -1,0 +1,117 @@
+button{
+    /* color:green; */
+    background-Color:rgba(0, 60, 128, 0.589);
+    color: white;
+    border-radius: 4px;
+    box-shadow:none;
+    border:none;
+    width:70px;
+    text-align: center;
+    height:25px;
+    cursor: pointer;
+    font-family:  "Gill Sans", sans-serif;
+    font-size: 12px;font-size-adjust: inherit;
+     z-index: 0;
+
+}
+
+i{
+    position:flex;
+    z-index: 100;color:black;
+    
+}
+header.Fanheader{
+    width:200 px;
+    font-family:  "Gill Sans", sans-serif;
+    background-color: white;
+     border:solid;
+    border-color: gainsboro;
+    border-width:1.5px;
+
+}
+
+header.Fanheader:hover {
+     border-color:rgba(0, 60, 128, 0.589);
+    /* border:solid; */
+}
+
+
+.img{
+    /* border:solid; */
+    height:150px;width: 100%;
+    cursor: pointer;
+
+}
+
+img.Fanimg{
+    /* border:solid;
+    margin-right:50px;
+    margin-left:50px; */
+    width: 90%;
+    height: 90%;
+    min-width: 90%;
+    min-height: 90%;
+}
+.title{    
+    cursor: pointer;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-weight:700;
+    font-size: 14px;
+    color:rgba(7, 47, 94, 0.815);
+    height:66px;
+
+}
+.feature{    padding: 16px;
+
+    background-color: rgba(220, 220, 220, 0.438);
+    font-size: 14px;
+    color:rgba(82, 81, 81, 0.904);
+}
+.past{    
+    padding-left: 16px;
+     padding-right: 16px;
+     font-size: 13px;
+    color:rgb(167, 29, 29)
+}
+
+label{
+    font-size: 12px;
+}
+
+/* .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  .show {
+    display: block;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  a {
+    float: none;
+    color: black;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    background-Color:rgba(255, 255, 255, 0.589);
+    color: rgb(20, 20, 20);
+    box-shadow:none;
+    border:none;font-size: 12px;
+    width:70px;
+    text-align: center;
+    height:20px;
+    cursor: pointer;
+    font-family: inherit;
+     z-index: 0;     
+  }
+   */
